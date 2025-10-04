@@ -9,10 +9,9 @@
 <br>
 
 - A passionate Backend Engineer
-- My expertise includes languages like Python, NodeJS, C, C++, Bash, SQL, HTML, CSS
-- Experience in frameworks like FastAPI, ExpressJS, React, Django, Flask, and Bootstrap
+- My expertise includes languages like Typescript, Python, Golang, Java, Rust, C, C++, Bash, SQL, HTML, CSS
+- Experience in frameworks like FastAPI, ExpressJS, NestJS, SprintBoot, React, Flask, and Bootstrap
 - Portfolio website [link](https://alexius.vercel.app/)
-- I’m currently open for an Internship or a new job opportunity
 
 <br><br>
 
